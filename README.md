@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 
-<div id="badges" align="center" >
+<div id="badges" >
   <a href="https://codeforces.com/profile/Atulkm">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforce Badge"/>
   </a>
