@@ -30,6 +30,13 @@
 ### :man_technologist: About Me :
 I am a First Year Undergrad.
 
+- :telescope: I’m looking for exposure and practical experience.
+
+- :seedling: learning C++.
+
+- :zap: I am deeply interested in learning graphic desiging 
+
+
 <!---
 Atul-k-m/Atul-k-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
