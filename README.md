@@ -24,6 +24,10 @@
   <div align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="500" height="300"/>
 </div>
+
+---
+
+### :man_technologist: About Me :
 <!---
 Atul-k-m/Atul-k-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
