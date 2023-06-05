@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center" >
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/hackerrank?style=for-the-badge&logo=hackerrank&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:atulkm189@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
