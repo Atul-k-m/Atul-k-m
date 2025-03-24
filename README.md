@@ -2,16 +2,17 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 
 <div id="badges" >
-  <a href="https://codeforces.com/profile/Atulkm">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforce Badge"/>
-  </a>
-   <a href="https://www.polywork.com/atul_kumar">
-    <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" alt="polywork Badge"/>
-  </a>
-  
-  <a href="https://dribbble.com/Atulkm">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribble Badge"/>
-  </a>
+<a href="atulkm189@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/atul-kumar-458aa1275">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<a href="https://leetcode.com/Atul-k-m">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+</a>
  
 </div>
 <img src="https://komarev.com/ghpvc/?username=Atul-k-m&style=flat-square&color=blue" alt=""/>
