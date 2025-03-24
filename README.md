@@ -52,7 +52,22 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"  alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" title="Processing"  alt="p3" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
+<img src="https://seeklogo.com/images/G/geth-logo-59B88A61E8-seeklogo.com.png" title="Geth" alt="Geth" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Golang_logo.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://www.pngkey.com/png/full/338-3381677_microsoft-excel-icon-png.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_BI_logo.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+<img src="https://seeklogo.com/images/L/langchain-logo-7D7DD6726A-seeklogo.com.png" title="Langchain" alt="Langchain" width="40" height="40"/>&nbsp;
+<img src="https://vectorwiki.com/images/WKJWE__pinecone.svg" title="Pinecone" alt="Pinecone" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Nmap_logo.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/3406/3406737.png" title="Blockchain" alt="Blockchain" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/2306/2306088.png" title="Web3" alt="Web3" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/3203/3203385.png" title="NLP" alt="NLP" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/1390/1390248.png" title="RAG" alt="RAG" width="40" height="40"/>&nbsp;
 </div>
 
 ---
