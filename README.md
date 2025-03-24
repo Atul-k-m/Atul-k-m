@@ -28,13 +28,13 @@
 ---
 
 ### :man_technologist: About Me :
-I am a First Year Undergrad.
+  I am a Second Year Undergrad.
 
 - :telescope: I’m looking for exposure and practical experience.
 
-- :seedling: learning C++.
+- :seedling: learning Blockchain.
 
-- :zap: I am deeply interested in learning graphic desiging 
+- :zap: I am deeply interested in learning Problem Solving
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
