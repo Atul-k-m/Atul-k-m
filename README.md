@@ -65,7 +65,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Atul-k-m&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Atul's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atul-k-m&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-k-m&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
