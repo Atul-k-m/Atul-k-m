@@ -26,51 +26,68 @@
 
 ## &nbsp;⚡ &nbsp;About
 
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=A78BFA&width=400&lines=%2F%2F+who+am+i%3F;const+atul+%3D+%7B;++year%3A+%223rd+year+CS%22%2C;++origin%3A+%22Chennai%2C+India%22%2C;++building%3A+%22on+the+chain%22%2C;++status%3A+%22open+to+work+%F0%9F%9F%A2%22;%7D" alt="about card"/>
+
+</td>
+<td width="45%" valign="top" align="right">
+
 ```
-  I build things — on the web, on the chain, and in the terminal.
-  Currently in my 3rd year, hunting for real-world problems to solve.
-  Deep in Blockchain. Obsessed with clean code. Always shipping.
+  🔭  Solidity · Rust · Ethereum
+  🧩  DSA grind on LeetCode daily
+  🌱  System design + DeFi protocols
+  💼  Hunting internship / full-time
+  📍  Chennai, Tamil Nadu, India
 ```
 
-- 🔭 &nbsp;Currently building with **Solidity, Rust & Ethereum**
-- 🧩 &nbsp;Grinding **algorithms & data structures** daily on LeetCode
-- 🌱 &nbsp;Learning **system design** and **DeFi protocols**
-- 💼 &nbsp;Actively looking for internship / full-time roles
-- 📍 &nbsp;Based in **Chennai, Tamil Nadu, India**
+</td>
+</tr>
+</table>
 
 ---
 
 ## &nbsp;🛠 &nbsp;Stack
 
-<!-- PIXEL ART BANNER — replace src with your generated image hosted on GitHub -->
-<div align="center">
-  <img src="./assets/pixel-tech-banner.png" width="600" alt="tech stack pixel art"/>
-</div>
-
-<br/>
-
 <div align="center">
 
-<!-- Languages -->
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+<table border="0">
+<tr><td align="center" colspan="6">
 
-<!-- Web & DB -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Languages**
 
-<!-- Tools -->
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+</td></tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40"/><br/><sub>C</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/><sub>C++</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><sub>Python</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/><sub>JavaScript</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=rust" width="40"/><br/><sub>Rust</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=solidity" width="40"/><br/><sub>Solidity</sub></td>
+</tr>
+
+<tr><td align="center" colspan="6"><br/><b>Web & Databases</b></td></tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/><sub>HTML</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/><sub>CSS</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/><sub>MySQL</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><sub>PostgreSQL</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><sub>MongoDB</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=ethereum" width="40"/><br/><sub>Ethereum</sub></td>
+</tr>
+
+<tr><td align="center" colspan="6"><br/><b>Tools</b></td></tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/><sub>Git</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/><sub>VS Code</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40"/><br/><sub>Figma</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/><sub>Linux</sub></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/><sub>GitHub</sub></td>
+  <td></td>
+</tr>
+</table>
 
 </div>
 
