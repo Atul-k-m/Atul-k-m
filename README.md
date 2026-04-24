@@ -140,7 +140,7 @@
    1200x400 pixels. No text. Retro RPG sprite style."
 -->
 
-  <img src="./assets/dragon.png" width="700" alt="pixel art dragon breathing purple flame"/>
+  <img src="./assets/dragon.svg" width="700" alt="pixel art dragon breathing purple flame"/>
 
   <br/>
   <br/>
