@@ -31,8 +31,6 @@
 
 ## &nbsp;⚡ &nbsp;About
 
-## &nbsp;⚡ &nbsp;About
-
 <br/>
 
 <div align="center">
@@ -54,6 +52,7 @@
 </div>
 
 <br/>
+
 ---
 
 ## &nbsp;🛠 &nbsp;Stack
