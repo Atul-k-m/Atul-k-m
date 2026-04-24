@@ -31,33 +31,29 @@
 
 ## &nbsp;⚡ &nbsp;About
 
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="16" width="100%">
-<tr>
-<td width="52%" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=3000&color=A78BFA&width=420&height=140&multiline=true&lines=%2F%2F+who+am+i%3F%0Aconst+atul+%3D+%7B%0A++year%3A+%223rd+year+CS%22%2C%0A++origin%3A+%22Chennai%2C+India%22%2C%0A++building%3A+%22blockchain+apps%22%2C%0A++status%3A+%22open+to+work+%F0%9F%9F%A2%22%0A%7D" alt="about card"/>
-
-</td>
-<td width="48%" valign="middle">
-
-&nbsp;&nbsp;🔭 &nbsp;Building with **Solidity · Rust · Ethereum**
-
-&nbsp;&nbsp;🧩 &nbsp;Grinding **DSA** on LeetCode daily
-
-&nbsp;&nbsp;🌱 &nbsp;Learning **system design** & **DeFi protocols**
-
-&nbsp;&nbsp;💼 &nbsp;Actively hunting **internship / full-time**
-
-&nbsp;&nbsp;📍 &nbsp;Based in **Chennai, Tamil Nadu, India**
-
-</td>
-</tr>
-</table>
+## &nbsp;⚡ &nbsp;About
 
 <br/>
 
+<div align="center">
+  <img src="./assets/terminal.svg" width="680" alt="Atul Kumar — terminal profile card"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | &nbsp; |
+|:---:|:---|
+| 🔭 | Building with **Solidity · Rust · Ethereum** |
+| 🧩 | Grinding **DSA** on LeetCode daily |
+| 🌱 | Learning **system design** & **DeFi protocols** |
+| 💼 | Actively hunting **internship / full-time** |
+| 📍 | Based in **Bangalore, Karnataka, India** |
+
+</div>
+
+<br/>
 ---
 
 ## &nbsp;🛠 &nbsp;Stack
